@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Zein
 
-Computer Science student at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/);<br>
-Ex-Intern at [CTOgram](https://ctogram.kz/#/);<br>
+- Computer Science student at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/);<br>
+- Ex-Intern at [CTOgram](https://ctogram.kz/#/);<br>
 
 - ⚙️ I use: `.py`, `.js`, `.html`, `.css`, `.cpp`, `.c`, `.go`
 
