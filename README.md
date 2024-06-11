@@ -1,6 +1,7 @@
 ### Hi there 👋 my name is Zein
 
 - Computer Science student at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/);<br>
+- Software Development Research Assistant at [CHI Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/laboratory-for-computer-human-intelligence.html);<br>
 - Ex-Intern at [CTOgram](https://ctogram.kz/#/);<br>
 - I use: `.py`,`.go`, `.js`, `.cpp`, `.c`, `.html`, `.css`
 
