@@ -1,8 +1,8 @@
 ### Hi there 👋 my name is Zein
 
 - Computer Science student at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/);<br>
-- Software Development Research Assistant at [CHI Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/laboratory-for-computer-human-intelligence.html);<br>
-- Ex-Intern at [CTOgram](https://ctogram.kz/#/);<br>
+- Software Developer & Research Assistant at [CHI Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/laboratory-for-computer-human-intelligence.html);<br>
+- Ex Software Engineer Intern at [CTOgram](https://ctogram.kz/#/);<br>
 - I use: `.py`,`.go`, `.js`, `.cpp`, `.c`, `.html`, `.css`
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeinmukhanov/)
