@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Zein
+### Zein Mukhanov
 
 - Computer Science student @ [NYU Abu Dhabi](https://nyuad.nyu.edu/en/);<br>
 - Software Developer @ [CHI Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/laboratory-for-computer-human-intelligence.html);<br>
