@@ -1,7 +1,7 @@
 ### About me:
 
 - Computer Science student @ [NYU Abu Dhabi](https://nyuad.nyu.edu/en/);<br>
-- Software Developer @ [CHI Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/laboratory-for-computer-human-intelligence.html);<br>
+- Ex Software Developer Intern @ [CHI Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/laboratory-for-computer-human-intelligence.html);<br>
 - Ex Software Engineer Intern @ [CTOgram](https://ctogram.kz/#/);<br>
 - I use: `.py`,`.go`, `.js`, `.cpp`, `.c`, `.html`, `.css`
 
