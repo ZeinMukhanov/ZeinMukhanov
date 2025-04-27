@@ -1,7 +1,9 @@
 ### Sup! Here's a little info about me:
 
 - Computer Science student @ [NYU Abu Dhabi](https://nyuad.nyu.edu/en/);<br>
-- Software Developer @ [CHI Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/laboratory-for-computer-human-intelligence.html);<br>
+- Software Engineer @ CITIES Research Center();<br>
+- Ex Software Engineer @ [SMART Lab NYUAD]();<br>
+- Ex Software Engineer @ [CHI Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/laboratory-for-computer-human-intelligence.html);<br>
 - Ex Software Engineer Intern / Product Manager Intern @ [CTOgram](https://ctogram.kz/#/);<br>
 - I use: `.jsx`, `.tsx`, `.py`, `.go`, `.cpp`, `.c`, `.html`, `.css`
 
