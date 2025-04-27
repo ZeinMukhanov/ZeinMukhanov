@@ -1,5 +1,5 @@
 ## Sup! Here's a little info about me:
-- Computer Science student @ [NYU Abu Dhabi](https://nyuad.nyu.edu/en/);<br>
+- CS @ [NYU Abu Dhabi](https://nyuad.nyu.edu/en/);<br>
 ### Currently:
 - SWE @ [CITIES Research Center]();<br>
 ### Previously:
