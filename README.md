@@ -1,9 +1,9 @@
 ## Sup! Here's a little info about me:
 - CS @ [NYU Abu Dhabi](https://nyuad.nyu.edu/en/);<br>
 ### Currently:
-- SWE @ [CITIES Research Center]();<br>
+- SWE @ [CITIES Research Center](https://sites.nyuad.nyu.edu/cities/);<br>
 ### Previously:
-- SWE @ [SMART Lab NYUAD]();<br>
+- SWE @ [SMART Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/smart.html);<br>
 - SWE @ [CHI Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/laboratory-for-computer-human-intelligence.html);<br>
 - SWE @ [CTOgram](https://ctogram.kz/#/);<br>
 ### Stack:
