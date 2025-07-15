@@ -1,9 +1,9 @@
 ## Sup! Here's a little info about me:
 - CS @ [NYU Abu Dhabi](https://nyuad.nyu.edu/en/);<br>
 ### Currently:
-- Product Intern @ [Coral]([https://coral.li/]);<br>
+- Product Intern @ [Coral](https://www.coral.li/);<br>
 ### Previously:
-- SWE @ [Stern NYUAD]([https://stern.nyuad.nyu.edu/]);<br>
+- SWE @ [Stern NYUAD](https://stern.nyuad.nyu.edu/);<br>
 - SWE @ [SMART Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/smart.html);<br>
 - SWE @ [CHI Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/laboratory-for-computer-human-intelligence.html);<br>
 - SWE @ [CTOgram](https://ctogram.kz/#/);<br>
