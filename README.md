@@ -1,7 +1,7 @@
 ## Sup! Here's a little info about me:
 - CS @ [NYU Abu Dhabi](https://nyuad.nyu.edu/en/);<br>
 ### Currently:
-- Product @ [Coral](https://www.coral.li/);<br>
+- FDE @ [Coral](https://www.coral.li/);<br>
 ### Previously:
 - SWE @ [Stern NYUAD](https://stern.nyuad.nyu.edu/);<br>
 - SWE @ [SMART Lab NYUAD](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/smart.html);<br>
